@@ -6,6 +6,7 @@ public class FirstClass {
         System.out.println("hello git");
         System.out.println("hello git");
         test();
+        //hello git test
     }
     public static void test(){
         System.out.println(123);
